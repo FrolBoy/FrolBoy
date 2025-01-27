@@ -1,16 +1,30 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Дима
 
-<!--
-**FrolBoy/FrolBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Я занимаюсь разработкой на C# 
+ 
+ Ниже краткая информация обо мне:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Технологии и инструменты
+
+- **Языки программирования**: `C#`, `SQL`
+- **Фреймворки и библиотеки**: `ASP.NET`, `GRPC`
+- **Базы данных**: `PostgreSQL`
+- **Инструменты**: `Docker`, `Postman`
+
+---
+
+## 🔥 Чем я занимаюсь
+
+- 🌱 Изучаю C# и базы данных
+- 🛠️ Становлюсь лучше во всем))
+
+---
+
+## 🤝 Как связаться со мной
+
+- 💌 Email: [123leolon123@gmail.com](mailto:123leolon123@gmail.com)
+- 📫 Telegram: [@FrollBoyDmitriy](https://t.me/FrollBoyDmitriy)
+
+---
